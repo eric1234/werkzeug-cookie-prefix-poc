@@ -1,0 +1,2 @@
+localhost	TRUE	/	TRUE	0	__Secure-Name	value
+localhost	TRUE	/	FALSE	0	"__Secure-Name"	evil
